@@ -1,0 +1,1 @@
+nohup python -u -W ignore producer.py >/dev/null 2>&1 &
